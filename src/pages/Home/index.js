@@ -5,7 +5,6 @@ import Movies from "./../../Components/Movies";
 const Home = () => {
   return (
     <div>
-      Home
       <Form />
       <Movies />
     </div>
